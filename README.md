@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Link](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/SkylineStock.png)](https://github.com/ethanbowles03/ethanbowles03)
-[![Link](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/UofUStock.png)](https://github.com/ethanbowles03/ethanbowles03)
+[![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/SkylineStock.png)](https://github.com/ethanbowles03/ethanbowles03)
+[![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/UofUStock.png)](https://github.com/ethanbowles03/ethanbowles03)
 
 <!--
 **ethanbowles03/ethanbowles03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
