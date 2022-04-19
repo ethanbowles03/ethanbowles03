@@ -24,8 +24,14 @@ ____
 
 ### What Im Currently Working On:
 #### Coding Projects:
+* Summer Projects:
+  * Sorting Algorithm Visualizer
+  * Data Structure Visualizer
+  * Color by Number Game 
+ 
+[View All Projects](https://github.com/ethanbowles03)
 #### Work:
-
+* Wasatch Kids Camps
 ____
 
 ### Experience and Skills 
