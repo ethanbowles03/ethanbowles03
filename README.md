@@ -28,6 +28,7 @@ ____
   * Sorting Algorithm Visualizer
   * Data Structure Visualizer
   * Color by Number Game 
+  * Basic Graphing Calculator
  
 [View All Projects](https://github.com/ethanbowles03)
 #### Work:
