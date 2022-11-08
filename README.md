@@ -50,7 +50,7 @@ ____
 ### Links to High School and College Portfolios
 
 [![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/UofU200.png)](https://github.com/ethanbowles03/ethanbowles03)
-[![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/Skyline200.png)](https://github.com/ethanbowles03/ethanbowles03)
+[![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/Skyline200.png)](https://github.com/ethanbowles03/2020-2021Prg2Port)
 
 <!--
 **ethanbowles03/ethanbowles03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
