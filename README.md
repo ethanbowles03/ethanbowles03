@@ -7,18 +7,21 @@ ____
 
 ### ✏ What Im Currently Learning:
 #### Computer Science:
-  * CS 1420 - Accelerated Introduction to OOP Programming
-    * FILL IN LATER
   * CS 2420 - Introduction to Algorithms and Data Structures
     * FILL IN LATER
+  * CS 3500 - Software Practices 1
+    * FILL IN LATER
+  * CS 3505 - Software Practices 2
+    * FILL IN LATER 
+    
+    
 #### Math:
-  * Math 1210 - Calculus 1
-    * FILL IN LATER
-  * Math 1220 - Calculus 2
-    * FILL IN LATER
+  * Multivariable Calculus
+  * Linear Algebra
+  * Discrete Math
+    
 #### Other Interesting Classes: 
-  * Honor 2212 - American Institutions
-    * FILL IN LATER
+  * Honor 2103 - Freedom and Constraint
 
 ____
 
@@ -51,18 +54,3 @@ ____
 
 [![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/UofU200.png)](https://github.com/ethanbowles03/ethanbowles03)
 [![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/Skyline200.png)](https://github.com/ethanbowles03/HighSchoolProgrammingPortfolio)
-
-<!--
-**ethanbowles03/ethanbowles03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
