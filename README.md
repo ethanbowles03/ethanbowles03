@@ -14,7 +14,6 @@ ____
   * CS 3505 - Software Practices 2
     * FILL IN LATER 
     
-    
 #### Math:
   * Multivariable Calculus
   * Linear Algebra
@@ -22,6 +21,8 @@ ____
     
 #### Other Interesting Classes: 
   * Honor 2103 - Freedom and Constraint
+
+#### GPA - 3.915
 
 ____
 
