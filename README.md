@@ -53,5 +53,5 @@ ____
 
 ### Links to High School and College Portfolios
 
-[![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/UofU200.png](https://github.com/ethanbowles03/CollegeProgrammingPortfolio/tree/main)
+[![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/UofU200.png)](https://github.com/ethanbowles03/CollegeProgrammingPortfolio/tree/main)
 [![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/Skyline200.png)](https://github.com/ethanbowles03/HighSchoolProgrammingPortfolio)
