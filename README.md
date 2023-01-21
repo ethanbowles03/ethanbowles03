@@ -18,6 +18,7 @@ ____
   * Multivariable Calculus
   * Linear Algebra
   * Discrete Math
+  * Engineering Statistics
     
 #### Other Interesting Classes: 
   * Honor 2103 - Freedom and Constraint
@@ -30,6 +31,7 @@ ____
 #### Coding Projects:
 * Personal Portfolio Website
 * Lawn Care Website
+* C++ Encryption Software
 ____
 
 ### Experience and Skills 
