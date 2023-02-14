@@ -8,11 +8,9 @@ ____
 ### ✏ What Im Currently Learning:
 #### Computer Science:
   * CS 2420 - Introduction to Algorithms and Data Structures
-    * FILL IN LATER
-  * CS 3500 - Software Practices 1
-    * FILL IN LATER
   * CS 3505 - Software Practices 2
-    * FILL IN LATER 
+  * CS 5530 - Database Systems
+  * CS 3810 - Computer Ogranization
     
 #### Math:
   * Multivariable Calculus
@@ -35,15 +33,21 @@ ____
 ____
 
 ### Experience and Skills 
-
+* CTE Skill Certifications: Java 1 & 2, C# 1 & 2, Python 1, C++ 1, VB 1, Accounting 1 & 2 
+* Proficient Languages: Java, C#, Python, C++, SQL 
+* Skills: Leadership Experience, People Skills, Communication Skills, Problem Solving, Critical Thinking and CPR/First Aid
 ____
 
 ### Work and Organizations
-
+* Wasatch Kids Camp -- Summer Camp Counselor (Summers 2020-2022)
+  * Provided close supervision and care for children, ensured their safety, and helped to created a fun environment 
+  * Collaborated with team members to effectively schedule and manage camp activities, help the children when they have problems or difficulties, track finances, and troubleshoot any issues. 
+  * Skills: Communication, Teamwork and Problem Solving
 ____
 
 ### Goals
-
+* Aspiring Software Engineer
+* Summer Internship
 ____
 
 ### Links to High School and College Portfolios
