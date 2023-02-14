@@ -50,7 +50,15 @@ ____
 * Summer Internship
 ____
 
+### Contact Me
+ (801) 875-9982 | ethanpbowles@gmail.com | github.com/ethanbowles03 | ethanpbowles.com
+
+____
+
 ### Links to High School and College Portfolios
 
 [![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/UofU200.png)](https://github.com/ethanbowles03/CollegeProgrammingPortfolio/tree/main)
 [![](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/Skyline200.png)](https://github.com/ethanbowles03/HighSchoolProgrammingPortfolio)
+
+____
+
