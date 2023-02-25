@@ -5,7 +5,7 @@
 
 ____
 
-### ✏ What Im Currently Learning:
+### ✏ What I Am Currently Studying:
 #### Computer Science:
   * CS 2420 - Introduction to Algorithms and Data Structures
   * CS 3505 - Software Practices 2
@@ -25,7 +25,7 @@ ____
 
 ____
 
-### What Im Currently Working On:
+### What I Am Currently Working On:
 #### Coding Projects:
 * Personal Portfolio Website
 * Lawn Care Website
