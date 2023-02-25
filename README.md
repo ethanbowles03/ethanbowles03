@@ -1,5 +1,3 @@
-![Profile](https://github.com/ethanbowles03/ethanbowles03/blob/main/resources/Header.png)
-
 ### 🤔 About Me:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello, my name is Ethan Bowles, and I am currently a full time student at the Univeristy of Utah. I am currently working towards   an Honors Bachelors of Science degree in Computer Science, and a Minor in Mathamatics. In my free time I enjoy the outdoors, spending time with friends and family, and working on side projects. I am currently working towards my goal of being a full time software developer. 
 
