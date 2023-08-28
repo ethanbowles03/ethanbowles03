@@ -9,25 +9,21 @@ ____
   * CS 3505 - Software Practices 2
   * CS 5530 - Database Systems
   * CS 3810 - Computer Ogranization
+  * CS 4150 - Algorithms
+  * CS 4440 - Introduction to Cyber Security
     
 #### Math:
   * Multivariable Calculus
   * Linear Algebra
   * Discrete Math
   * Engineering Statistics
+  * Foundations of Analysis
+  * Number Theory
     
 #### Other Interesting Classes: 
   * Honor 2103 - Freedom and Constraint
 
-#### GPA - 3.915
-
-____
-
-### What I Am Currently Working On:
-#### Coding Projects:
-* Personal Portfolio Website
-* Lawn Care Website
-* C++ Encryption Software
+#### GPA - 3.865
 ____
 
 ### Experience and Skills 
