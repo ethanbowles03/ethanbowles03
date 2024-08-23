@@ -43,7 +43,7 @@ providing assistance through weekly, hosted help hours and Piazza, grading assig
 ____
 
 ### Contact Me
- (801) 875-9982 | ethanpbowles@gmail.com | https://github.com/ethanbowles03 | https://ethanpbowles.com
+ (801) 875-9982 | ethanpbowles@gmail.com | https://github.com/ethanbowles03 | https://ethanpbowles.com | https://www.linkedin.com/in/ethanbowles
 
 ____
 
