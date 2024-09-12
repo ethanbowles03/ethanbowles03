@@ -23,8 +23,8 @@ ____
 * Skills: Leadership Experience, People Skills, Communication Skills, Problem Solving, Critical Thinking, Python, Software Engineering, Linux, CPR/First Aid
 ____
 
-### Work and Organizations
-* Myriad Genetics -- Software Engineering Intern (Remote)
+### Experience
+* Software Engineering Intern (Remote) -- Myriad Genetics
   * Developed a Python-based CLI utilizing Click, enhancing team onboarding processes and automating routine tasks.
 Engineered a scalable, modular framework that supports seamless integration of team-specific CLIs. Led the automation
 of critical operations, including SSH key generation, Docker environment setup, Java installation with company
@@ -33,13 +33,21 @@ certificates, and Git repository configuration. Pitched the CLI to 120+ Tech Org
 insights. Created a web form using Python/Flask to track Health Intelligence Impact Report requests. Collaborated with
 medical specialists on clinical data analytics solutions and presented AI implementation strategies at Myriad's Tech
 Conference to 100+ attendees.
-* University of Utah, Khalert School of Computing -- Teaching Assistant - Intro to Data Structures and Algorithms
+* Teaching Assistant - Intro to Data Structures and Algorithms -- University of Utah, Khalert School of Computing
   *  Advised students as a Teaching Assistant for Intro to Data Structures and Algorithms, leading and teaching lab sessions,
 providing assistance through weekly, hosted help hours and Piazza, grading assignments, and administering tests
-* Wasatch Kids Camp -- Summer Camp Counselor (Summers 2020-2022)
-  * Provided close supervision and care for children, ensured their safety, and helped to created a fun environment 
-  * Collaborated with team members to effectively schedule and manage camp activities, help the children when they have problems or difficulties, track finances, and troubleshoot any issues. 
-  * Skills: Communication, Teamwork and Problem Solving
+* Summer Camp Counselor -- Wasatch Kids Camp
+  *  Supervised, ensured safety, and fostered a fun environment for children. Collaborated with a team of three others to manage
+activities, handle finances, and address problems.
+ 
+
+### Leadership
+* Vice President of Quantum Computing Club -- University of Utah
+  * Organized and led weekly preparations for the IBM Qiskit Fall Fest 2024. Hosted an on-campus extension event as part of
+the festival. Regularly attended seminars and facilitated discussions/meetings on quantum computing.
+* President of Local TSA Team -- Technology Student Association | Granite Technical Institute
+  * Led and operated weekly club meetings, discussed group projects/progress, helped with code, and prepared teammates for
+upcoming competitions. Placed first in Utah State Championship for software development and competed at Nationals.
 ____
 
 ### Contact Me
