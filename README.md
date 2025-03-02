@@ -5,14 +5,11 @@ ____
 
 ### ✏ What I Am Currently Studying:
 #### Computer Science:
-  * CS 4000 - CS Capstone
-  * CS 4600 - Computer Graphics
-    
-#### Math:
-  * Math 3220 - Foundations of Real Analysis 2
+  * CS 4500 - CS Capstone
+  * CS 3100 - Computer Organization
     
 #### Other Interesting Classes: 
-  * Psy 1010 - General 
+  * Bowling
 
 #### GPA - 3.8
 ____
